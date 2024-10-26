@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\finland\Desktop\zadan4-5\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3104504333.index
+1073429915.index
